@@ -1,4 +1,4 @@
-# CAR-OV-stud5_ConteEtAl2024
+# CAR-OV-study_ConteEtAl2024
 
 Matlab code used to simulate the macroscopic models for tumor cells and combined therapy dynamics proposed in "CAR T-cell and oncolytic virus dynamics and determinants of combination therapy success for glioblastoma" (2025), by M. Conte, A. Xella, R.T. Woodall, K.A. Cassady, S. Branciamore, C.E. Brown, and R.C Rockne
 
